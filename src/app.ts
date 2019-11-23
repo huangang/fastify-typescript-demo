@@ -1,5 +1,5 @@
-import * as AutoLoad from "fastify-autoload";
-import * as path from "path";
+import * as AutoLoad from 'fastify-autoload'
+import * as path from 'path'
 
 export = ((fastify, opts, next) => {
 // Place here your custom code!
